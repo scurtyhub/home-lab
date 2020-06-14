@@ -1,5 +1,5 @@
 # Home lab Network diagram
-This consists of the Operating systems and Services that are used to build the Home-Lab.
+This consists list of Operating systems and Services that are used to build the Home-Lab.
 
 ### Network Diagram
 ![alt text](images/Home_Lab.jpg)
