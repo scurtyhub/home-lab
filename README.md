@@ -7,10 +7,10 @@ This consists of the Operating systems and Services that are used to build the H
 ### Services
 - [Pi-hole](https://pi-hole.net/) used for DNS.
 - [Flask server](https://flask.palletsprojects.com/) used for Website.
-- [Reverse Proxy](https://www.nginx.com/)
-- [Docker](https://www.docker.com/)
-- [Bookstack](https://www.bookstackapp.com/)
-- [Whoogle](https://github.com/benbusby/whoogle-search)
+- [Nginx](https://www.nginx.com/) used as Reverse Proxy.
+- [Docker](https://www.docker.com/) used as Container platform.
+- [Bookstack](https://www.bookstackapp.com/) used for organising and storing information.
+- [Whoogle](https://github.com/benbusby/whoogle-search) used as Google alternative.
 
 ### Operating systems
 - [PfSense Firewall](https://www.pfsense.org/)
