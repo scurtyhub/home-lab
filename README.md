@@ -1,5 +1,5 @@
 # Home lab Network diagram
-This consists list of Operating systems and Services that are used to build the Home-Lab.
+This repo lists Operating systems and Services that are used to build out my Home Lab.
 
 ### Network Diagram
 ![alt text](images/Home_Lab.jpg)
