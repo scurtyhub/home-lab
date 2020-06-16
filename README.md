@@ -12,6 +12,7 @@ This repo shows Network diagram and lists Operating systems and Services that ar
 - [Docker](https://www.docker.com/) used for Container platform.
 - [Bookstack](https://www.bookstackapp.com/) used for organising and storing information.
 - [Whoogle](https://github.com/benbusby/whoogle-search) used as Google alternative.
+- [Nessus](https://www.tenable.com/products/nessus) used to scan hosts on the network.
 
 ### Operating systems
 - [PfSense Firewall](https://www.pfsense.org/)
