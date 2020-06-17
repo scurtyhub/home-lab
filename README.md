@@ -1,5 +1,5 @@
 # Home lab Network diagram
-This repo shows Network diagram and lists Operating systems and Services that are used to build out my Home Lab.
+This repo shows Network diagram and lists Operating systems and Services that are used to build out my Home Lab. The idea behind building out a home lab is to ensure, the lab is network segmented, use a Firewall, set up scans to identify vulnerabilities etc. This repo also keep tracks of the changes/upgrades that are made to the lab over the period of time.
 
 ### Network Diagram
 ![alt text](images/Home_Lab.jpg)
