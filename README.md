@@ -11,10 +11,10 @@ This repo shows Network diagram and lists Operating systems and Services that ar
 - [Nginx](https://www.nginx.com/) used for Reverse Proxy.
 - [Docker](https://www.docker.com/) used for Container platform.
 - [Bookstack](https://www.bookstackapp.com/) used for organising and storing information.
-- [Portainer] (https://www.portainer.io/) used for docker management.
-- [Prometheus] (https://prometheus.io/) used for systems monitoring.
-- [Grafana] (https://grafana.com/) used for visualization.
-- [Anchor Engine] (https://anchore.com/) used for container scanning.
+- [Portainer](https://www.portainer.io/) used for docker management.
+- [Prometheus](https://prometheus.io/) used for systems monitoring.
+- [Grafana](https://grafana.com/) used for visualization.
+- [Anchor Engine](https://anchore.com/) used for container scanning.
 - [Nessus](https://www.tenable.com/products/nessus) used to scan hosts on the network.
 
 ### Operating systems
