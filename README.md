@@ -14,6 +14,7 @@ This repo shows Network diagram and lists Operating systems and Services that ar
 - [Portainer](https://www.portainer.io/) used for docker management.
 - [Watchtower](https://github.com/containrrr/watchtower) to update running containers.
 - [Prometheus](https://prometheus.io/) used for systems monitoring.
+- [InfluxDB](https://www.influxdata.com/) used as a time series database.
 - [Grafana](https://grafana.com/) used for visualization.
 - [Anchor Engine](https://anchore.com/) used for container scanning.
 - [Nessus](https://www.tenable.com/products/nessus) used to scan hosts on the network.
