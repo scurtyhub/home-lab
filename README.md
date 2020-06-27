@@ -20,9 +20,9 @@ This repo shows Network diagram and lists Operating systems and Services that ar
 - [Nessus](https://www.tenable.com/products/nessus) used to scan hosts on the network.
 
 ### Operating systems
-- [PfSense Firewall](https://www.pfsense.org/)
-- [Cisco IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html)
-- [Noobs Lite](https://www.raspberrypi.org/downloads/noobs/)
-- [Ubuntu server](https://ubuntu.com/download/server)
-- [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html)
-- [DD-WRT](http://www.dd-wrt.com/)
+- [PfSense](https://www.pfsense.org/) on Protectcli device.
+- [Cisco IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html) on Cisco Switch.
+- [Noobs Lite](https://www.raspberrypi.org/downloads/noobs/) on Raspberry Pi.
+- [Ubuntu server](https://ubuntu.com/download/server) on Hypervisor.
+- [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html) on Dell PowerEdge T30.
+- [DD-WRT](http://www.dd-wrt.com/) on Netgear Router.
