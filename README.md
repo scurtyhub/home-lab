@@ -7,6 +7,7 @@ This repo shows Network diagram and lists Operating systems and Services that ar
 
 ### Services
 - [Pi-hole](https://pi-hole.net/) used for DNS.
+- [Starter Page](https://github.com/scurtyhub/startpage) used for hosting home page for Web Browser.
 - [Flask server](https://flask.palletsprojects.com/) used for Website.
 - [Nginx](https://www.nginx.com/) used for Reverse Proxy.
 - [Docker](https://www.docker.com/) used for Container platform.
