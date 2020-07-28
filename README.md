@@ -10,18 +10,20 @@ This repo shows Network diagram and lists Operating systems and Services that ar
 - [Bookstack](https://www.bookstackapp.com/) used for organising and storing information.
 - [Nextcloud](https://nextcloud.com/) used for home cloud.
 - [Starter Page](https://github.com/scurtyhub/startpage) used for hosting home page for Web Browser.
+- [Grafana](https://grafana.com/) used for visualization.
+- [InfluxDB](https://www.influxdata.com/) used as a time series database.
+- [Prometheus](https://prometheus.io/) used as a time series database.
+- [Certificate Authority](https://www.openssl.org/) used to sign certificates for home lab.
+- [Nessus](https://www.tenable.com/products/nessus) used to scan hosts on the network.
+- [Anchor Engine](https://anchore.com/) used for container scanning.
+- [Watchtower](https://github.com/containrrr/watchtower) to update running containers.
 - [Nginx](https://www.nginx.com/) used for Reverse Proxy.
 - [Docker](https://www.docker.com/) used for Container platform.
-- [Watchtower](https://github.com/containrrr/watchtower) to update running containers.
-- [InfluxDB](https://www.influxdata.com/) used as a time series database.
-- [Grafana](https://grafana.com/) used for visualization.
-- [Anchor Engine](https://anchore.com/) used for container scanning.
-- [Nessus](https://www.tenable.com/products/nessus) used to scan hosts on the network.
 
 ### Operating systems
 - [PfSense](https://www.pfsense.org/) on Protectcli device.
+- [Proxmox virtualization](https://www.proxmox.com/) on Dell PowerEdge T30.
+- [DD-WRT](http://www.dd-wrt.com/) on Netgear Router.
 - [Cisco IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html) on Cisco Switch.
 - [Noobs Lite](https://www.raspberrypi.org/downloads/noobs/) on Raspberry Pi.
 - [Ubuntu server](https://ubuntu.com/download/server) on Hypervisor.
-- [Proxmox virtualization](https://www.proxmox.com/) on Dell PowerEdge T30.
-- [DD-WRT](http://www.dd-wrt.com/) on Netgear Router.
