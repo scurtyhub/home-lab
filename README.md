@@ -14,11 +14,10 @@ This repo shows Network diagram and lists Operating systems and Services that ar
 - [InfluxDB](https://www.influxdata.com/) used as a time series database.
 - [Prometheus](https://prometheus.io/) used as a time series database.
 - [Certificate Authority](https://www.openssl.org/) used to sign certificates for home lab.
-- [Nessus](https://www.tenable.com/products/nessus) used to scan hosts on the network.
-- [Anchor Engine](https://anchore.com/) used for container scanning.
 - [Watchtower](https://github.com/containrrr/watchtower) to update running containers.
 - [Nginx](https://www.nginx.com/) used for Reverse Proxy.
 - [Docker](https://www.docker.com/) used for Container platform.
+- [Kali Linux Lab](https://www.kali.org/) used for Pentesting Lab.
 
 ### Operating systems
 - [PfSense](https://www.pfsense.org/) on Protectcli device.
@@ -26,4 +25,12 @@ This repo shows Network diagram and lists Operating systems and Services that ar
 - [DD-WRT](http://www.dd-wrt.com/) on Netgear Router.
 - [Cisco IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html) on Cisco Switch.
 - [Noobs Lite](https://www.raspberrypi.org/downloads/noobs/) on Raspberry Pi.
-- [Ubuntu server](https://ubuntu.com/download/server) on Hypervisor.
+- [Ubuntu server](https://ubuntu.com/download/server) on RPi 4.
+- [Kali Linux](https://www.kali.org/) on Dell PowerEdge T30.
+
+### Hardware
+Raspberry Pi 3
+Raspberry PI 4
+Dell T30 Server
+Cisco switch 2960
+Netgear router
