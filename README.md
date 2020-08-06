@@ -29,8 +29,8 @@ This repo shows Network diagram and lists Operating systems and Services that ar
 - [Kali Linux](https://www.kali.org/) on Dell PowerEdge T30.
 
 ### Hardware
-Raspberry Pi 3
-Raspberry PI 4
-Dell T30 Server
-Cisco switch 2960
-Netgear router
+- Raspberry Pi 3
+- Raspberry PI 4
+- Dell T30 Server
+- Cisco switch 2960
+- Netgear router
